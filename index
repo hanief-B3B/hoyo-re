@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Incident Report - Lost Hoyoverse Account</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #0056b3;
+            padding-bottom: 5px;
+        }
+        .code {
+            background: #f1f1f1;
+            padding: 10px;
+            border-radius: 5px;
+            font-family: monospace;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Incident Report: Lost Hoyoverse Account</h1>
+
+    <div class="section">
+        <h2>Incident Details</h2>
+        <p>I lost my phone during my commute, and since I did not use a phone password (it was mainly for light gaming), I was unable to secure my device. The two-factor authentication (2FA) for my account is linked to a phone number attached to that lost phone. Additionally, the SIM card was in the lost phone, which may have contributed to unauthorized access to my account. Although I eventually recovered my Gmail accounts, it appears that my Hoyoverse account’s recovery email and password were changed without my consent.</p>
+    </div>
+
+    <div class="section">
+        <h2>Account Information</h2>
+        <p><strong>Username:</strong> Hanifu</p>
+        <p>This is the username I have consistently used across all my gaming history and online services.</p>
+        <p>Proof:</p>
+        <ul>
+            <li>Reddit post history: <a href="https://www.reddit.com/r/honkaiimpact3/s/K8KWvVvj83" target="_blank">Reddit</a></li>
+            <li>Pixiv fanart linked to Hoyolab: 
+                <a href="https://www.pixiv.net/en/artworks/107366359" target="_blank">Pixiv Artwork 1</a>, 
+                <a href="https://www.pixiv.net/en/artworks/108173644" target="_blank">Pixiv Artwork 2</a>
+            </li>
+            <li>Old Hoyolab profile: <a href="https://m.hoyolab.com/#/accountCenter/postList?id=7881365" target="_blank">Hoyolab Profile</a></li>
+        </ul>
+        <p>The pictures I posted on Hoyolab are also on my Pixiv, proving the link between the accounts.</p>
+    </div>
+
+    <div class="section">
+        <h2>Gaming History</h2>
+        <ul>
+            <li>Started playing Honkai Impact 3rd on August 28, 2019. First S-rank Valkyrie: Lightning Empress.</li>
+            <li>Joined Genshin Impact on day one using a Realme C3 (RMX2020). First 5-star: Zhongli.</li>
+            <li>Played Honkai Star Rail since launch. First rare character: Bai Lu.</li>
+            <li>Received a Honkai snack physical gift from miHoYo, which could be matched with my previous IP login history.</li>
+            <li>On January 6, 2023, my Honkai Impact 3rd login counter reached 1056 days.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Original Login Details</h2>
+        <p>Possible passwords:</p>
+        <div class="code">
+            hanifu04<br>
+            Hanifu04<br>
+            indomiegoren9
+        </div>
+        <p>Possible linked emails:</p>
+        <ul>
+            <li>haniefbintang7@gmail.com</li>
+            <li>sariawanekstrim@gmail.com</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Devices Used to Log In</h2>
+        <ul>
+            <li>Redmi 4A</li>
+            <li>Realme C3</li>
+            <li>Xperia XZ2</li>
+            <li>PC</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Additional Information</h2>
+        <p>My Hoyolab account (Hanifu) is restricted from posting due to a past Terms of Service violation but remains functional otherwise.</p>
+    </div>
+
+</div>
+
+</body>
+</html>
+index.html
